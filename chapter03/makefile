@@ -1,5 +1,7 @@
 nc=nvcc 
-flag=-deviceemu
+# edvice emulation is obsoleted
+# use gpuoclet? instead
+#flag=-deviceemu
 
 all:
 
